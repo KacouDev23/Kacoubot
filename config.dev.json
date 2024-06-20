@@ -12,8 +12,8 @@
 	"antiInbox": false,
 	"language": "en",
 	"notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-	"nickNameBot": "GoatBot",
-	"prefix": "-",
+	"nickNameBot": "kacou",
+	"prefix": "w",
 	"adminOnly": {
 		"enable": false,
 		"ignoreCommand": []
@@ -142,4 +142,4 @@
 		"autoReconnect": false,
 		"notes": "Document here: https://github.com/ntkhang03/fb-chat-api/blob/master/DOCS.md#apisetoptionsoptions "
 	}
-}
+		}
